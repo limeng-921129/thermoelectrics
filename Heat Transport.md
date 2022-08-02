@@ -1,4 +1,4 @@
 ### Heat Transport
 
 #### Thermal Conductivity
-$$\kappa\_tot\=$$
+$$\kappa\_$tot$=$$
