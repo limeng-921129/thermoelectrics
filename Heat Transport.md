@@ -32,4 +32,5 @@ In a metal, the electronic contribution to the heat capacity can be estimated by
 $$C_{\rm V}=\frac {{\rm C}}{{\it \Theta\_{\rm D}}^3}T^3+\gamma\ T\$$
 where the first term refers to phonon contribution to heat capacity, and the second term refers to electron contribution to heat capacity. Then a linear fit of $C_{\rm C}/T$ vs. $T^2$ yields the Sommerfeld coefficient ( $\gamma\$ ) as the y-axis intercept, whcih can be used to predict the density-of-states at Fermi level ( ${\rm DOS}(E_{\rm F})$ ) via:
 $$\gamma\=\frac {\pi\^2k_{\rm B}^2}{3} \cdot {\rm DOS}(E_{\rm F})$$
-Moreover, a plot of $C_{\rm V}/T^3$ versus $T$ is useful for determining the presence of Einstein model.
+Moreover, a plot of $C_{\rm V}/T^3$ versus $T$ is useful for determining the presence of Einstein model, given that:
+$$C_{\rm tot}=C_{\rm electronic}+C_{\rm Debye}+C_{\rm Einstein1}+C_{\rm Einstein2}+ \cdot \cdot \cdot$
