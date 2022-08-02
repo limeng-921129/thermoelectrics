@@ -25,4 +25,4 @@ In above equations, $R$ is gas constant, $h$ is Planck's constant, $k_{\rm B}$ i
 ######
 *Debye Model* is an extend model to Einstein Model to account for the coupling of atomic oscillators seen in real systems. Analogous to ${\it \Theta\_{\rm E}}$, there is a *Debye Temperature* of ${\it \Theta\_{\rm D}}$. In Debye Model, $\omega\$ is assumed to be a range of vibrational frequencies, and $\omega\_{\rm max}$ is
 used in place of $\omega\$. The Debye model predicts a $T^3$ temperature dependence of heat capacity, namely:
-$$C_{\rm V}=12\chi\^3\int_0^x\frac {u^3}{(e^u-1){\rm d}u}$$
+$$C_{\rm V}=12\chi\^3\int_0^x\frac {u^3}{(e^u-1){\rm d}u-\frac {3\chi\}{e^\chi\-1}}$$
