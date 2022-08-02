@@ -30,4 +30,5 @@ $$\chi\={\it \Theta\_{\rm D}}/T=h\omega\_{\rm max}/k_{\rm B}T$$
 ######
 In a metal, the electronic contribution to the heat capacity can be estimated by plotting very low temperature heat capacity data near 0 K. At these temperatures, the Debye model reduces to:
 $$C_{\rm V}=\frac {{\rm C}}{{\it \Theta\_{\rm D}}^3}T^3+\gamma\ T\$$
-where the first term refers to phonon contribution to heat capacity, and the second term refers to electron contribution to heat capacity. Then a linear fit of $C_{\rm C}/T$ *vs.* $T^2$
+where the first term refers to phonon contribution to heat capacity, and the second term refers to electron contribution to heat capacity. Then a linear fit of $C_{\rm C}/T$ vs. $T^2$ yields the Sommerfeld coefficient ( $\gamma\$ ) as the y-axis intercept, whcih can be used to predict the density of states at the Fermi level via:
+$${\rm DOS}_{E_{\rm F}}=$$
