@@ -16,3 +16,7 @@ where $v$ is phonon group velocity, and $l$ is phonon mean free path ( MFP ).
 #### Specific Heat Capacity
 The amount of heat energy required to raise the temperature of a material is known as the heat capacity — $C_{\rm V}$ at constant volume or $C_{\rm P}$ at constant pressure. When this term is expressed as the amount of heat energy per unit mass of material needed to raise its temperature by 1 K, it is referred to as specific heat capacity.\
 Normal and Umklapp scattering mechanisms are both responsible for heat propagation in solids. Through Normal scattering, momentum is conserved; through Umklapp scattering, momentum is not conserved. At low temperatures, Normal scattering is dominant due to a lower phonon population and Umklapp scattering has just a minor contribution. When the temperature is high enough, Umklapp scattering can be considerable due to increased phonon–phonon scattering.
+ $ C_ {v} $ =3R $ \frac {u^ {2}e^ {u}}{(e^ {u}-1)^ {2}} $ =3R-
+ $ (\frac {\theta _ {2}}{T})^ {2} $ $ e^ {(\frac {g_ {2}}{T})} $ 
+e( $ \frac {6}{2} $ )
+
