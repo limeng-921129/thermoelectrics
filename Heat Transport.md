@@ -29,5 +29,5 @@ $$C_{\rm V}=12\chi\^3\int_0^x\frac {u^3}{(e^u-1){\rm d}u-\frac {3\chi\}{e^\chi\-
 ######
 In a metal, the electronic contribution to the heat capacity can be estimated by plotting very low temperature heat capacity data near 0 K. At these temperatures, the Debye model reduces to:
 $$C_{\rm V}=\frac {{\rm C}}{{\it \Theta\_{\rm D}}^3}T^3+\gamma\T$$
-$$\gamma\T&&
-&&\pi\T$$
+$$\gamma\T$$
+$$\pi\T$$
