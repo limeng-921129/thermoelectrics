@@ -28,4 +28,4 @@ used in place of $\omega\$. The Debye model predicts a $T^3$ temperature depende
 $$C_{\rm V}=12\chi\^3\int_0^x\frac {u^3}{(e^u-1){\rm d}u-\frac {3\chi\}{e^\chi\-1}}$$
 ######
 In a metal, the electronic contribution to the heat capacity can be estimated by plotting very low temperature heat capacity data near 0 K. At these temperatures, the Debye model reduces to:
-$$C_{\rm V}=\frac {{\rm C}}{{it \Theta\_{\rm D}}^3}+\gamma\T$$
+$$C_{\rm V}=\frac {{\rm C}}{{\it \Theta\_{\rm D}}^3}+\gamma\T$$
