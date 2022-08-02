@@ -18,4 +18,6 @@ The amount of heat energy required to raise the temperature of a material is kno
 Normal and Umklapp scattering mechanisms are both responsible for heat propagation in solids. Through Normal scattering, momentum is conserved; through Umklapp scattering, momentum is not conserved. At low temperatures, Normal scattering is dominant due to a lower phonon population and Umklapp scattering has just a minor contribution. When the temperature is high enough, Umklapp scattering can be considerable due to increased phonon–phonon scattering.
 
 $$C_{\rm V}=3R \cdot \frac {u^2e^u}{(e^u-1)^2}$$
+$$C_{\rm V}=3R \cdot \frac {u^2e^u}{(e^u-1)^2}$$
 $$u=\Theta\_{\rm E}/T=h\omega\/k_{\rm B}T$$
+There is a trick
