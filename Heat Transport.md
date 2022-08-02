@@ -24,5 +24,5 @@ $$u={\it \Theta\_{\rm E}}/T=h\omega\/k_{\rm B}T$$
 In above equations, $R$ is gas constant, $h$ is Planck's constant, $k_{\rm B}$ is Boltzmann's constant, and $T$ is absolute temperature in Kelvin.
 ######
 *Debye Model* is an extend model to Einstein Model to account for the coupling of atomic oscillators seen in real systems. Analogous to ${\it \Theta\_{\rm E}}$, there is a *Debye Temperature* of ${\it \Theta\_{\rm D}}$. In Debye Model, $\omega\$ is assumed to be a range of vibrational frequencies, and $\omega\_{\rm max}$ is
-used in place of $\omega\$. The Debye model predicts a $~T^3$ temperature dependence of heat capacity, namely:
+used in place of $\omega\$. The Debye model predicts a ~$T^3$ temperature dependence of heat capacity, namely:
 $$C_{\rm V}=12\chi\^3int$$
