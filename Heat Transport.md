@@ -2,7 +2,7 @@
 
 ### Thermal Conductivity
 Total thermal conductivity ( $\kappa\_{\rm {tot}}$ ) is comprised of:
-$$\kappa\_{tot}=\kappa\_e+\kappa\_l+\kappa\_{bip}$$
+$$\kappa\_{\rm {tot}}=\kappa\_{\rm e}+\kappa\_{\rm l}+\kappa\_{\rm {bip}}$$
 where $\kappa\_e$ is electronic tensor component (or electronic thermal conductivity), $\kappa\_l$ is lattice tensor component (or lattice thermal conductivity), and $\kappa\_{bip}$ is bipolar thermal conductivity.
 
 #### Electronic Thermal Conductivity
