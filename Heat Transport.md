@@ -1,5 +1,5 @@
 ## Heat Transport
-\
+&nbsp;
 ### Thermal Conductivity
 The formulation of total thermal conductivity ( $\kappa\_{\rm {tot}}$ ) is:
 $$\kappa\_{\rm {tot}}=\kappa\_{\rm e}+\kappa\_{\rm l}+\kappa\_{\rm {bip}}$$
