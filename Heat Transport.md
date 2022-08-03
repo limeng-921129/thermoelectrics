@@ -29,7 +29,7 @@ $$C_{\rm V}=12\chi\^3\int_0^x\frac {u^3}{(e^u-1){\rm d}u-\frac {3\chi\}{e^\chi\-
 $$\chi\={\it \Theta\_{\rm D}}/T=h\omega\_{\rm max}/k_{\rm B}T$$
 # 
 In a metal, the electronic contribution to the heat capacity can be estimated by plotting very low temperature heat capacity data near 0 K. At these temperatures, the Debye model reduces to:
-$$C_{\rm V}=\frac {{\rm C}}{{\it \Theta\_{\rm D}}^3}T^3+\gamma \quad T$$
+$$C_{\rm V}=\frac {{\rm C}}{{\it \Theta\_{\rm D}}^3}T^3+\gamma \, T$$
 where the first term refers to phonon contribution to heat capacity, and the second term refers to electron contribution to heat capacity. Then a linear fit of $C_{\rm C}/T$ vs. $T^2$ yields the **Sommerfeld coefficient** $\gamma\$ as the y-axis intercept, whcih can be used to predict the density-of-states at Fermi level $({\rm DOS}(E_{\rm F}))$ via:
 $$\gamma\=\frac {\pi\^2k_{\rm B}^2}{3} \cdot {\rm DOS}(E_{\rm F})$$
 Moreover, a plot of $C_{\rm V}/T^3$ versus $T$ is useful for determining the presence of Einstein model, given that:
